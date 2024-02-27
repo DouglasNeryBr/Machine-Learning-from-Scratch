@@ -1,1 +1,3 @@
-"# ML_only_numpy" 
+# Machine Learning from Scrath 
+No TensorFlow, No PyTorch, No SkLearn, just Numpy to implement machine learning models and neural networks.
+## In progress ...
